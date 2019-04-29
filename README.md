@@ -1,5 +1,4 @@
-# MAGD 150
-## ReadMe File
+# ReadMe File
 
 This repository houses five MAGD 150 projects done by Cameron Levine.
 
