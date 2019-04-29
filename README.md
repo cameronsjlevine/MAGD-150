@@ -1,7 +1,7 @@
 # MAGD 150
 ## ReadMe File
 
-This repository houses the MAGD 150 projects done by Cameron Levine.
+This repository houses five MAGD 150 projects done by Cameron Levine.
 
 
 ## Moon & Pagoda
